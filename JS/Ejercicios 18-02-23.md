@@ -17,3 +17,6 @@
 # Uso de estructuras de repetición.
 
 ## Ejercicio 5
+![image](https://user-images.githubusercontent.com/85717673/222223958-da28a604-a3d7-4606-8796-ed9e46fbf7b6.png)
+
+## Ejercicio 6
